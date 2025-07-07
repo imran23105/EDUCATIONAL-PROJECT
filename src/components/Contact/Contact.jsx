@@ -47,7 +47,7 @@ const Contact = () => {
               "url('https://static.vecteezy.com/system/resources/previews/000/696/089/non_2x/chalkboard-template-and-students-vector.jpg')",
           }}
         ></div>
-            <div className='absolute top-[95PX] left-0 w-full h-[60vh] flex flex-col items-center justify-center text-white text-center px-4 bg-black/40 md:h-[90vh]'>
+            <div className='absolute top-0 left-0 w-full h-[60vh] flex flex-col items-center justify-center text-white text-center px-4 bg-black/40 md:h-[90vh] '>
                 <h1 className='text-7xl font-bold'>Get In Touch</h1>
                 <p className='text-2xl'>The ultiMate aim to Guide you towards the future </p>
             </div>
